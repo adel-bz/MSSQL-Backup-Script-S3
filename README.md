@@ -13,7 +13,6 @@ This repository contains a script for backing up MSSQL databases and sending the
 Before using this script, ensure you have the following prerequisites installed:
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and configured IAM user
 - [MSSQL Container](https://github.com/adel-bz/MSSQL-Database) on an Ubuntu server
-- Before using this script, ensure you changed environment variables on ```.env``` file.
 
 # Usage
 1. Clone this repository to your local machine:
